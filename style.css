@@ -1,0 +1,23 @@
+.brand-nav {
+  font-size: 14px;
+  text-align: center;
+  padding: 20px 0;
+  border-bottom: 1px solid #eaeaea;
+}
+.brand-nav span {
+  margin: 0 10px;
+  white-space: nowrap;
+}
+.product-title {
+  font-size: 1.2rem;
+  margin-top: 15px;
+}
+.product-price {
+  font-size: 0.9rem;
+  color: #666;
+}
+.product-card img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
